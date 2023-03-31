@@ -1,0 +1,32 @@
+.estatisticas__section{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 1200px;
+    height: 200px;
+    gap: 30px;
+    margin: auto;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.numeros__seçao{
+    width: 280px;
+    height: 190px;
+}
+
+.numeros__estatisticas{
+    color: darkred;
+    font-size: 50px;
+}
+
+.texto1__estatisticas{
+    color: black;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+.texto2__estatisticas{
+    color: #667085;
+    margin-top: 16px;
+}

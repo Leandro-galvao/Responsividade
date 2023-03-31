@@ -1,0 +1,14 @@
+@import "navbar.css";
+@import "cabeçalho.css";
+@import "section.css";
+@import "vagas.css";
+@import "depoimentos.css";
+@import "formulario.css";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: auto;
+}

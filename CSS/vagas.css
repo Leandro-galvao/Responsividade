@@ -1,0 +1,83 @@
+.vagas__section{
+    width: 1280px;
+    height: auto;
+    margin: auto;
+    margin-top: 192px;
+    text-align: center;
+}
+
+.vagas__txt{
+    color: darkred;
+    background-color: rgba(128, 128, 128, 0.5);
+    width: 125px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.talentos__txt{
+    font-size: 38px;
+    margin-bottom: 30px;
+}
+
+.remota__txt{
+    color: #667085;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 1280px;
+}
+
+.escritorio__section{
+    width: 1200px;
+    height: 400px;
+}
+
+.infoVagas__section{
+    width: 790px;
+    height: 360px;
+    margin-top: 65px;   
+    margin: auto;
+}
+
+.infoVagas__section2{
+    width: 790px;
+    height: 560px;
+    margin-top: 85px;   
+    margin: auto;
+}
+
+.designe__section{
+    margin-top: 32px;
+    font-weight: 600;
+}
+
+.productD__section{
+    margin-top: 32px;
+    border-style: solid;
+    border-color: #66708593;
+    border-width: 1px;
+    border-radius: 20px;
+    width: 770px;
+    height: 140px;
+}
+
+.funcao__txt{
+    margin: 24px 28px 24px 24px;
+}
+
+.ux__section{
+    margin-top: 24px;
+    border-style: solid;
+    border-color: #66708593;
+    border-width: 1px;
+    border-radius: 20px;
+    width: 770px;
+    height: 140px;
+}
+
+.info__txt{
+    margin: 50px 28px 24px 24px;
+    color: #667085;
+}
